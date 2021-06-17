@@ -1,3 +1,3 @@
-# new website yay
+# jaredyoshi.tk
 
-wip
+new website yay wip
