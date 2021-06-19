@@ -1,3 +1,3 @@
-# jaredyoshi.tk
+# jaredyoshi.cf
 
 new website yay wip
